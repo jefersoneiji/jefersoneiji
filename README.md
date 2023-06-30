@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=codeLearnerrr&color=blue)
+
 - 👋 Hi, I’m @codeLearnerrr, developing high-end applications in Brazil
 - 👀 I’m interested in the React ecosystem and how Metacognition applied to Deep Learning can disrupt MedTech
 - 🌱 I’m currently learning React (Js & Native), NodeJS and SQL
