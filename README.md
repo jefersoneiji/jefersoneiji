@@ -1,10 +1,20 @@
+# Hello! My name is Jeferson. 🧔
 ![](https://komarev.com/ghpvc/?username=codeLearnerrr&color=blue)
 
-- 👋 Hi, I’m @codeLearnerrr, developing high-end applications in Brazil
-- 👀 I’m interested in the React ecosystem and how Metacognition applied to Deep Learning can disrupt MedTech
-- 🌱 I’m currently learning React (Js & Native), NodeJS and SQL
-- 💞️ I’m looking to collaborate on relevant projets for the dev communinity with long lasting impact
-- 📫 How to reach me: code_learnerrr@hotmail.com, it's very likely for me to answer you
+## 🚀 About Me
+
+## 👨‍💻 Portfolio
+
+## 🧰 Tools 
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <!---
 codeLearnerrr/codeLearnerrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
