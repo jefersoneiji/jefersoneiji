@@ -3,6 +3,21 @@
 
 ## 🚀 About Me
 
+Innovative Front-End Developer with 3+ years in the Web space. I help small to medium size teams like Kasterweb to build software with confidence and to decrease maintenance time by 83,34%.
+
+Some examples of my results include:
+
+- Developed android/ios packages for RN API and published it to NPM. Thus, code reuse shot 100% in only 1 week
+
+- Executed React and Next.js apps using best practices and Design Systems that delivered 10+ UI components in 7 days
+
+- Designed using TDD and Typescript for ERP app with 40+ users that reduced SDLC by 75%
+
+Fluent in English and Portuguese, currently learning German
+I get excited about opportunities where I'm able to work with highly creative people to develop innovative software solutions in the web/mobile space.
+
+I love connecting with new people, give me a shout on [LinkedIn](https://www.linkedin.com/in/jeferson-eiji/)!
+
 ## 👨‍💻 Portfolio
 
 ## 🧰 Tools 
