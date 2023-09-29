@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Innovative Front-End Developer with 3+ years in the Web space. I help small to medium size teams like Kasterweb to build software with confidence and to decrease maintenance time by 83,34%.
+Innovative Fullstack Developer with 3+ years in the Web space. I help small to medium size teams like Kasterweb to build software with confidence and to decrease maintenance time by 83,34%.
 
 Some examples of my results include:
 
