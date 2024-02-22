@@ -20,9 +20,9 @@ I love connecting with new people, give me a shout on [LinkedIn](https://www.lin
 
 ## 👨‍💻 Portfolio
 
-[galaxy-book-store](https://github.com/codeLearnerrr/bootstrap-projects) <br>
-[social-app-front-end](https://github.com/codeLearnerrr/social-app-front-end) <br>
-[client-website](https://github.com/codeLearnerrr/client-website)
+[galaxy-book-store](https://github.com/jefersoneiji/bootstrap-projects) <br>
+[hacker-news](https://github.com/jefersoneiji/hacker-news) <br>
+[client-website](https://github.com/jefersoneiji/client-website)
 
 ## 🧰 Tools 
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
