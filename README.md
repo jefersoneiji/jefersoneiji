@@ -18,12 +18,6 @@ I get excited about opportunities where I'm able to work with highly creative pe
 
 I love connecting with new people, give me a shout on [LinkedIn](https://www.linkedin.com/in/jeferson-eiji/)!
 
-## 👨‍💻 Portfolio
-
-[galaxy-book-store](https://github.com/jefersoneiji/bootstrap-projects) <br>
-[hacker-news](https://github.com/jefersoneiji/hacker-news) <br>
-[client-website](https://github.com/jefersoneiji/client-website)
-
 ## 🧰 Tools 
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
