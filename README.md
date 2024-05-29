@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Innovative Fullstack Developer with 3+ years in the Web space. I help teams to build software with confidence and to decrease maintenance time by 83,34%.
+Innovative Fullstack Engineer with 3+ years in the Web space. I help teams to build software with confidence and to decrease maintenance time by 83,34%.
 
 Some examples of my results include:
 
